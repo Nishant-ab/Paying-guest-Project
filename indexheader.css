@@ -1,0 +1,42 @@
+.logo {
+    height: 30px;
+    width: 60px;
+    margin-left: 20px;
+  }
+  .header{
+    width: 100%;
+  }
+  .logo{
+    height: 100%;
+    border-radius: 15px;
+  }
+  .sign:hover{
+    transition: 0.5s;
+    box-shadow: 0 0 10px 3px rgb(233, 231, 231);
+  }
+  .nav-item{
+    margin: 10px;
+  }
+  .s{
+    margin-left: 700px;
+  }
+  .sign{
+    background-color: teal;
+    color: white;
+    width: 90px;
+    height: 40px;
+    border-radius: 10px;
+  }
+  .sign:hover{
+    width: 95px;
+    color: black;
+  }
+  .search{
+    width: 150px;
+    color: blanchedalmond;
+    border-radius: 20px;
+  }
+  .form-control.search{
+    margin-left: -150px;
+    margin-top: -25px;
+  }
